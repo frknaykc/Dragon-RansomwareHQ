@@ -11,8 +11,8 @@ For more detailed information, please refer to the following directories:
 
 ## Examples of Ransom Notes
 
-![Ransom Note Example 1](INCRansomware/Gui/inc2.png)
-![Ransom Note Example 2](INCRansomware/Gui/inc1.png)
+![Ransom Note Example 1](Gui/inc2.png)
+![Ransom Note Example 2](Gui/inc1.png)
 
 ## Examples of File Extensions
 
