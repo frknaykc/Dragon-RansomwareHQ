@@ -7,8 +7,8 @@ Cactus ransomware employs a combination of AES and RSA algorithms to encrypt bus
 
 For more detailed information, please refer to the following directories:
 
-- **IOCs**: Contains all the Indicators of Compromise related to Cactus ransomware. [IOC Directory](IOC)
-- **Notes**: Contains ransom notes and other related documents left by the ransomware group. [Notes Directory](Note)
+- **IOCs**: Contains all the Indicators of Compromise related to Cactus ransomware. [IOC Directory](IOCs)
+- **Notes**: Contains ransom notes and other related documents left by the ransomware group. [Notes Directory](Notes)
 
 ## File Extension Changes
 
