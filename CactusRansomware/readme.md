@@ -48,3 +48,15 @@ Refer to the analysis results below for details.
 ### Network Connections and Links:
 
 - Email: `cactus@mexicomail.com`
+
+## File Encryption Process
+
+![File Encryption Process](Gui/33.jpg)
+
+## Binary Code Execution
+
+![Binary Code Execution](Gui/44.jpg)
+
+## Kroll's Diagram
+
+Kroll's diagram explains the execution process of the Cactus binary code based on the selected option.
