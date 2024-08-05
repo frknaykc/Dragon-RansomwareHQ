@@ -1,6 +1,14 @@
+
 # Cactus Ransomware Overview
 
 Cactus ransomware employs a combination of AES and RSA algorithms to encrypt business users' data, subsequently demanding a substantial ransom to restore access to the files. This ransomware, noted in a ransom note titled `cAcTuS.readme.txt`, was active in the second half of March 2023. It primarily targets English-speaking users and has the potential to spread worldwide.
+
+## Directories for IOC and Notes
+
+For more detailed information, please refer to the following directories:
+
+- **IOCs**: Contains all the Indicators of Compromise related to Cactus ransomware. [IOC Directory](IOC)
+- **Notes**: Contains ransom notes and other related documents left by the ransomware group. [Notes Directory](Note)
 
 ## File Extension Changes
 
@@ -57,6 +65,3 @@ Refer to the analysis results below for details.
 
 ![Binary Code Execution](Gui/44.jpg)
 
-## Kroll's Diagram
-
-Kroll's diagram explains the execution process of the Cactus binary code based on the selected option.
