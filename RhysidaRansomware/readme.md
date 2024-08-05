@@ -4,7 +4,7 @@ As is often seen in the ransomware arena, this threat is delivered through vario
 
 The group itself likes to masquerade as a cybersecurity organization, as shown in the ransom note below. They claim to have compromised the company and are willing to help resolve the issue. Such approaches are not unusual — historically, groups have done things like providing "security reports" to compromised organizations to "help them solve the problem."
 
-![Ransom Note](Gui/Screenshot_2023-08-07_at_3.35.07_PM.png)
+![Ransom Note](Gui/ScreenshotPM.png)
 
 ## Directories for IOC and Notes
 
