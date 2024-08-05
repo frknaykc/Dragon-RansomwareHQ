@@ -1,5 +1,3 @@
-### README.md for INC Ransomware
-
 # INC Ransomware Overview
 
 INC ransomware's activity was detected in early August 2023, but it appears to have begun a month earlier on June 12, 2023. It targets English-speaking users and has the potential to spread worldwide.
