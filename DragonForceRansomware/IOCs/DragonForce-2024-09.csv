@@ -1,0 +1,10 @@
+Type,Indicator,Description
+IP,185[.]73[.]125[.]8,New
+IP,94[.]232[.]46[.]202,New
+IP,69[.]4[.]234[.]20,New
+IP,2[.]147[.]68[.]96,New
+IP,185[.]59[.]221[.]75,New
+Hash,97B70E89B5313612A9E7A339EE82AB67,C:\Users\[Redacted]\AppData\Local\Temp\2\socks aug\socks.exe
+Hash,A50637F5F7A3E462135C0AE7C7AF0D91,C:\Users\[Redacted]\AppData\Local\Temp\2\a65.exe	
+Hash,BB7C575E798FF5243B5014777253635D,C:\Users\[Redacted]\AppData\Local\Temp\2\netscanold.exe
+Hash,C111476F7B394776B515249ECB6B20E6,df.exe (dropped in multiple paths)
